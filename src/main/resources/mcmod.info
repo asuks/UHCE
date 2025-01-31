@@ -1,0 +1,16 @@
+[
+{
+  "modid": "uhcenhancements",
+  "name": "UHCE",
+  "description": "A mod designed for PVP players with extra features for Hypixel UHC",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/asuks/",
+  "updateUrl": "",
+  "authorList": ["asuks"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
