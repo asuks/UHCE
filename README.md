@@ -13,10 +13,16 @@ Download the latest release from the **[releases page](https://github.com/asuks/
 
 ## Features
 ### Memo
-Leave a memo 
+- Stores a string
+- Customizable settings
 
 ### Kill Tracker
-Tracks players' kills
+- Counts players’ kills
+- Displays players’ kills
+- Displays players’ holding items
+- Automatically clears when UHC starts
+- Customizable settings
+- Only in HYPIXEL UHC
 
 ## License and Contribution
 This project doesn't have a license which means it defaults to exclusive copyright. You can fork this project, read its code, but you are not allowed to distribute it. Read the license. If you want to contribute to this project you can make a pull request. If you want to add features that have nothing to do with this project, consider creating your own mod instead of forking this project "because it's a nice mod".
